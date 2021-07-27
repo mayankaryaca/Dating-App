@@ -1,7 +1,8 @@
 # Dating-App
 Dating app which displays people, give like, dislike options
 
-## :books: Dating app displays a list of people which you can like or dislike 
+## :books: Dating app 
+Displays a list of people which you can like or dislike 
 In the tab view there's Find Mactch and Info option
 Find match : You can choose to go back on someone's profile
 Info : displays web view for tinder
